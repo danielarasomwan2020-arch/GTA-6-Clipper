@@ -1,0 +1,5 @@
+numpy
+yt-dlp
+chat-downloader
+# optional, for --captions:
+# faster-whisper
